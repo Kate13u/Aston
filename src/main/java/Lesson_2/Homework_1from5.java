@@ -1,6 +1,6 @@
 package Lesson_2;
 
-public class Homework_2 {
+public class Homework_1from5 {
 
     public static void main(String[] args) {
         printThreeWords();
